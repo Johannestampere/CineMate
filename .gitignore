@@ -1,0 +1,8 @@
+backend/.env
+.env
+/backend/.env
+movie/backend/.env
+~/backend/.env
+/node_modules
+~/node_modules
+client/node_modules
